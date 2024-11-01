@@ -1,0 +1,61 @@
+p {
+
+    color: blue; /* Cambia el color del texto a azul */
+  
+  }
+
+  div {
+
+    background-color: lightgrey; /* Cambia el color de fondo a gris claro */
+  
+  }
+
+  h1 {
+
+    font-size: 15px; /* Cambia el tamaño de la fuente a 24 píxeles */
+  
+  }
+
+  body {
+
+  font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
+
+}
+
+h1 {
+
+    text-align: center; /* Centra el texto */
+  
+  }
+
+
+  p {
+
+    padding: 10px; /* Añade 10 píxeles de espacio alrededor del contenido */
+  
+  }
+
+  div {
+
+    border: 2px solid black; /* Añade un borde negro de 2 píxeles de grosor */
+  
+  }
+  h1 {
+
+    margin: 20px; /* Añade 20 píxeles de espacio fuera de la caja */
+  
+  }
+
+  .container {
+
+    width: 200px; /* Establece un ancho fijo de 200 píxeles */
+  
+    height: 150px; /* Establece una altura fija de 150 píxeles */
+  
+  }
+
+  * {
+
+    box-sizing: border-box;
+  
+  }
